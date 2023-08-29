@@ -1,1 +1,1 @@
-World Cup Database - Part of Relational Database certification with freeCodeCamp,.
+World Cup Database - Part of Relational Database certification with freeCodeCamp.
