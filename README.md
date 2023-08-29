@@ -1,1 +1,1 @@
-World Cup Database - Required project to earn Relational Database certification with freeCodeCamp, comprised of creating a Bash script that enters information from World Cup games into PostgreSQL, then querying the database for useful statistics.
+World Cup Database - Part of Relational Database certification with freeCodeCamp,.
